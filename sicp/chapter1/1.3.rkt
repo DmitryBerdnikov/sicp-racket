@@ -16,4 +16,4 @@
 (check-equal? (sum-of-squares-of-two-largest-out-of-three 3 4 4) 32)
 (check-equal? (sum-of-squares-of-two-largest-out-of-three 4 3 4) 32)
 (check-equal? (sum-of-squares-of-two-largest-out-of-three 4 4 3) 32)
-(check-equal? (sum-of-squares-of-two-largest-out-of-three 3 3 3) 17)
+(check-equal? (sum-of-squares-of-two-largest-out-of-three 3 3 3) 18)
