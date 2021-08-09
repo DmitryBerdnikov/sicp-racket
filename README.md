@@ -1,4 +1,4 @@
-# Sicp Racket Boilerplate
+# Sicp Racket
 
 [![github action status](https://github.com/DmitryBerdnikov/sicp-racket/workflows/Racket%20CI/badge.svg)](https://github.com/DmitryBerdnikov/sicp-racket/actions)
 
