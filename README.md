@@ -15,4 +15,7 @@
 1.  Run tests `make test`
 2.  Run linter `make lint`
 
-I get inspiration from https://github.com/ivanjovanovic/sicp
+I get inspiration from
+* https://github.com/ivanjovanovic/sicp
+* http://community.schemewiki.org/?sicp-solutions
+* https://sicp.hexlet.io/ru/solutions
